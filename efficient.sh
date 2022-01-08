@@ -1,0 +1,1 @@
+python3 570Project_efficient.py input.txt
